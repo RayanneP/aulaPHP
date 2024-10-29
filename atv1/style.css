@@ -1,0 +1,9 @@
+body{
+    font-family:;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    margin: o;
+    background-color: rgb(178, 255, 255);
+}
